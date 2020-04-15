@@ -1,4 +1,4 @@
-# MEAN_stack
+# MERN_stack
 > ## 🛠 Status: In Development
 
 
